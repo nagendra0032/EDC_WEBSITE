@@ -1,0 +1,113 @@
+.main-header {
+  background: url(../img/bgf.jpg);
+  background-size: cover;
+  background-position: center; 
+  min-height: 600px;
+  color:black;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+  margin-left: 0px;
+  color: purple; 
+}
+
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+}
+a.brand-logo {
+  color: #fff;
+}
+
+.section-about{
+  font-family: "Oswald";
+
+}
+
+.section-features .row {
+
+  padding: 30px;
+  padding-top: 10px;
+  padding-right: 10px;
+  font-family: verdana;
+}
+.section-features .row .fnt{
+font-size:30px;
+font-family: Alegreya,serif;
+}
+
+.section-about .vdeo{
+  margin-top: 60px;
+  margin-left: 80px;
+  padding-left: 30px;
+
+}
+
+.card1 h5{
+  padding: 10px 0px;
+  color: rgb(51, 50, 50);
+}
+ i{
+  color:rgb(85, 83, 83);
+}
+
+.card1{
+  transition: .5s;
+  height: 600px;
+
+}
+
+.card1:hover i{
+  color: purple;
+}
+.card1:hover h5{
+  color: purple;
+
+}
+.card1:hover{
+  transform: scale(1.03);
+  background:#fff;
+}
+
+
+.responsive-video{
+margin-top:20px;
+ margin-left: 0px;
+}
+
+h5{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: bold;
+  color: #fff;
+}
+h1{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: bold;
+  color: #fff;
+}
+h6{
+  font-family: 'Abril Fatface', cursive;
+  font-weight: bold;
+  color: #fff;
+}
+
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+}
+
+.section-say{
+  background: rgba(157, 247, 157, 0.651);
+  
+}
+a{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+  
+}
+h3{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: bold;
+
+}

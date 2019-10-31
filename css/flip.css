@@ -1,0 +1,29 @@
+body{
+    background-color: #333333;
+    margin: 0;
+    padding: 0;
+
+}
+
+.con{
+    background-color: white;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+
+.box{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    transform-style: preserve-3d;
+    position: relative;
+    
+
+}
